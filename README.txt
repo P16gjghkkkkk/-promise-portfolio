@@ -1,17 +1,20 @@
-PROMISE CHUKWUEMEKA — PORTFOLIO WEBSITE
+PROMISE CHUKWUEMEKA PORTFOLIO
 
-Files:
-- index.html: portfolio content
-- style.css: responsive styling
-- script.js: mobile navigation and current year
+FILES
+- index.html: website content and structure
+- style.css: layout, colors, responsive/mobile styling
+- script.js: mobile navigation and active navigation state
+- hero-bg.jpg: optional background image (not included; add your own licensed image)
 
-HOW TO PREVIEW
-Open index.html in a browser. The Google Fonts import requires internet; the site still works with system fonts if offline.
+PREVIEW
+Open index.html in a browser. Internet is only needed for the Google Fonts import; the rest runs locally.
 
 BEFORE PUBLISHING
-1. Replace contact placeholders with professional email, LinkedIn and GitHub URLs.
-2. Confirm exact details and dates for volunteer work.
-3. Add links to source documents, GitHub repositories, graphics, and actual tutoring examples only after checking they are ready to share.
-4. Review the wording of skills and experience before using it for job applications.
+1. Check your degree dates and secondary-school dates.
+2. Replace the sample/concept project cards with projects you have actually completed and add their live/demo or GitHub links.
+3. Put your real CV PDF in this folder and name it Promise-Chukwuemeka-CV.pdf, or update the download link in index.html.
+4. Verify contact details and social profile links.
+5. If you want a hero image, add a properly licensed image named hero-bg.jpg in this folder. The page also looks good without one.
 
-This is a static starter site. It is not yet hosted online.
+PUBLISHING
+Upload index.html, style.css, script.js, and any assets to the root of your GitHub Pages repository. Keep the file names exactly as linked in the HTML.
